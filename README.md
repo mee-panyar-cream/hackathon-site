@@ -11,7 +11,8 @@ Find a copy of our problem statement [HERE:](./problem-statement.md)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxp1YNKBJe53oZowoACvmfV66ioEd0fKhRSk8xOrZPcZPQyg/viewform?embedded=true" width="640" height="1264" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-# Sponsors
+# Sponsors and Organisers
 
-[Mee Panyar](https://www.meepanyar.com/
+[Mee Panyar](https://www.meepanyar.com/)
+
 [VMLY&R](https://www.vmlyr.com/)
