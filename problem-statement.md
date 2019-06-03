@@ -10,10 +10,14 @@ How might we develop a remote monitoring capability that allows us to monitor en
 The sustainability of remote, off-grid energy technologies relies heavily on timely and informed maintenance. Remote monitoring of these systems can provide real time information on system downtime, inefficiencies, consumption, and theft. Additionally, remote monitoring can support the local technician/manager in fulfilling maintenance agreements and plans.
 
 Existing solutions exhibit the following problems:
-Too expensive and too high tech: plenty of fully smart tech solutions are emerging, but these involve integrating a significant amount of new technology into environments where it might not be appropriate, and the costs are often unrealistic
-Designed for household level monitoring, for markets where households can / want to use mobile money and have exposure to apps/devices. In rural markets in countries like Myanmar, this is not currently a feasible approach. Higher level, simpler, lower cost solutions would be much more realistic.
-Are designed on the assumption that good internet speeds are available and always on, which is not the case for our target communities. We need to send minimal amounts of data on low bandwidth, and be able to fall back to SMS when 2g is unavailable
-Are designed for expert-level remote monitoring. While we will facilitate that, our focus is on enabling locally trained technicians to support Operations & Maintenance. We will therefore need to focus on User Experience: easy to understand information; alerts & triggers that explain what the situation or problem is; and step-by-step instructions for remedial action to be taken. Contacting the remote monitoring team is a backup, rather than the happy path, for the use cases being developed against
+
+* Too expensive and too high tech: plenty of fully smart tech solutions are emerging, but these involve integrating a significant amount of new technology into environments where it might not be appropriate, and the costs are often unrealistic
+
+* Designed for household level monitoring, for markets where households can / want to use mobile money and have exposure to apps/devices. In rural markets in countries like Myanmar, this is not currently a feasible approach. Higher level, simpler, lower cost solutions would be much more realistic.
+
+* Are designed on the assumption that good internet speeds are available and always on, which is not the case for our target communities. We need to send minimal amounts of data on low bandwidth, and be able to fall back to SMS when 2g is unavailable
+
+* Are designed for expert-level remote monitoring. While we will facilitate that, our focus is on enabling locally trained technicians to support Operations & Maintenance. We will therefore need to focus on User Experience: easy to understand information; alerts & triggers that explain what the situation or problem is; and step-by-step instructions for remedial action to be taken. Contacting the remote monitoring team is a backup, rather than the happy path, for the use cases being developed against
 
 
 
