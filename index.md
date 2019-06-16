@@ -9,6 +9,10 @@ Read about Mee Panyar's work [HERE](https://www.meepanyar.com/)
 
 Find a copy of our problem statement [HERE:](./problem-statement.md)
 
+# Technical Approach
+
+[Technical Approach](./technical-approach.md)
+
 
 # How do I Register?
 
