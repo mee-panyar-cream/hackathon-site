@@ -21,7 +21,7 @@ We are suggesting using protocol buffers for communication between remote device
 
 # Lambda Functions - Serverless
 
-Here is a great guide to serverless [serverless-stack.com](https://serverless-stack.com)
+Here are notes on serverless [serverless-stack](serverless-environment)
 
 # Data Aggregation 
 
