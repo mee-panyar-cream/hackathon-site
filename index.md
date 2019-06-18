@@ -7,11 +7,11 @@ Read about Mee Panyar's work [HERE](https://www.meepanyar.com/)
 
 # What are we Solving?
 
-Find a copy of our problem statement [HERE:](./problem-statement.md)
+Find a copy of our problem statement [HERE:](./problem-statement)
 
 # Technical Approach
 
-[Technical Approach](./technical-approach.md)
+[Technical Approach](./technical-approach)
 
 
 # How do I Register?

@@ -5,6 +5,8 @@ To Reduce Safety Concerns and speed of production for POC
 
 We have opted to select a pre-existing device PZEM-016
 
+![PZEM-016](images/PZEM_016.jpg)
+
 Voltage (80-260VAC)
 Current (0-100A)
 Active Power (0-23000W)
@@ -23,3 +25,5 @@ This meter has RS485 and Modbus RTU slave protocol, which facilitates communicat
 Some similar work has been done previously by this project:
 
 http://pdacontrolen.com/initial-review-meter-pzem-016-modbus-rtu-rs485-by-peacefair/
+
+
