@@ -9,6 +9,10 @@
 
 [How-to Video](https://www.youtube.com/watch?v=zcu0gXuSsZY)
 
+# Setting up an Emulator
+
+
+
 
 # Setup as a Modbus Master
 
