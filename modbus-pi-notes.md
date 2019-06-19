@@ -11,7 +11,7 @@
 
 # Setting up an Emulator
 
-
+[install Pi in virtual box](https://dbakevlar.com/2015/08/emulating-a-raspberry-pi-on-virtualbox/)
 
 
 # Setup as a Modbus Master
