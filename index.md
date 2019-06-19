@@ -16,9 +16,7 @@ Find a copy of our problem statement [HERE:](./problem-statement)
 
 # Project Management 
 
-Our project board is here:
-
-https://github.com/orgs/mee-panyar-cream/projects/1
+Our project board is [here](https://github.com/orgs/mee-panyar-cream/projects/1)
 
 You are also welcome to submit Pull Requests to our sub projects:
 
