@@ -25,9 +25,7 @@ Here are notes on serverless [serverless-stack](serverless-environment)
 
 # Data Aggregation 
 
-We should investigate a time-series database for data aggregation. 
-
-[Amazon Timestream](https://aws.amazon.com/timestream/) may be worth considering as we are working on AWS. However need to investigate how we can run it locally in a docker environment.
+[See the databased discussion here](data-aggregation)
 
 
 
