@@ -28,5 +28,6 @@ Here are notes on serverless [serverless-stack](serverless-environment)
 [See the databased discussion here](data-aggregation)
 
 
+# UI Discussion
 
-
+[Mockups of the UI design](cream-ui-design)
