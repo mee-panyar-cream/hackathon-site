@@ -26,6 +26,8 @@ You are also welcome to submit Pull Requests to our sub projects:
 
 [Backend Services](https://github.com/mee-panyar-cream/cream-services)
 
+[UI Project](https://github.com/mee-panyar-cream/cream-ui)
+
 
 
 # How do I Register?
